@@ -1,2 +1,2 @@
 # TicTacToe
-Initial commit: Simple TicTacToe game in java.
+Simple TicTacToe game in java.
